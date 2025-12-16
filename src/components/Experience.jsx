@@ -23,7 +23,7 @@ const experiences = [
     role: "Software Engineering Intern",
     period: "July 2025 – September 2025",
     description:
-      "Introduced and demonstrated EventixAfrica (production-ready version) to the team. Learned Laravel, API development, and full-stack workflows. Later contributed directly to company projects, including enhancements to the HCM Service Hub and internal HR tools."
+      "Shortly before my internship began, I launched Eventicafrica, making it my firstever live project/buisness startup. Then during my internship at NNPC LTD, I learned Laravel, API development, and full-stack workflows. Later contributed directly to company projects, including enhancements to the HCM Service Hub and internal HR tools."
   }
 ];
 
